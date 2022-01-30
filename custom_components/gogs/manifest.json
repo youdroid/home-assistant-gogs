@@ -1,0 +1,11 @@
+{
+  "domain": "gogs",
+  "name": "gogs",
+  "version": "1.0",
+  "issue_tracker": "https://github.com/youdroid/home-assistant-gogs/issues",
+  "documentation": "https://github.com/youdroid/home-assistant-gogs",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@youdroid"],
+  "iot_class": "cloud_polling"
+}
