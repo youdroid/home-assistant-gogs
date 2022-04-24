@@ -137,7 +137,7 @@ class GogsSensor(Entity):
         return "mdi:cog-outline"
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         """Return the state attributes."""
         attrs = {
             ATTR_REPO_ID: self.id_repo,
